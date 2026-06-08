@@ -1,3 +1,3 @@
 output "message" {
-  value = "Hello from module v1"
+  value = "Hello from module v2"
 }
